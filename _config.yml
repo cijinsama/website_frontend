@@ -12,7 +12,7 @@ title                    : "Yi Liu"
 title_separator          : "-"
 name                     : &name "Yi Liu"
 description              : &description "incoming UCSD MS student in ECE"
-url                      : https://https://ci-jin.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yi-liu.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cijinsama/cijinsama.github.io"
 

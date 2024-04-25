@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yi Liu"
 title_separator          : "-"
 name                     : &name "Yi Liu"
-description              : &description "UCSD incoming MS student in ECE"
+description              : &description "incoming UCSD MS student in ECE"
 url                      : https://https://ci-jin.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cijinsama/cijinsama.github.io"
@@ -205,7 +205,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photos:
     output: true
     permalink: /:collection/:path/
   talks:

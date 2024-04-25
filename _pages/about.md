@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "\"Defining who you are is a daily act of defiance.\""
+title: "\"Bio\""
 author_profile: true
 redirect_from: 
   - /about/

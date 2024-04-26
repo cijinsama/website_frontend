@@ -1,20 +1,15 @@
 ---
 permalink: /
-title: "Bio"
+title: "Hi, I’m Leo."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently an undergraduate student in Acoustics at Nanjing University. I am fortunate to be advised by Prof. Lu at Nanjing University for my [undergraduate degree paper]({{ site.baseurl }}{% link _demos/speech-enhancement.md %}) about audio packet loss concealment. 
+I am an ambitious Acoustics undergraduate at Nanjing University, fortunate to be under the expert guidance of Professor. Lu as I embark on my undergraduate thesis, delving into the realm of audio packet loss concealment. Stay tuned as I prepare to unveil our [demo]({{ site.baseurl }}{% link _demos/speech-enhancement.md %}), showcasing our innovative solutions.
 
+My research interests span a wide spectrum, encompassing <strong>AI generative models, speech signal processing and parallel computing</strong>. While I have made initial forays into these areas, I am eager to dive deeper, particularly in domains such as system, program analysis and machine learning theory. Currently, I am also leveraging my skills as an AI Engineer through an enriching internship at [Papergames](https://www.papegames.com/en).
 
-Currently I'm doing an intership at [Papergames](https://www.papegames.com/en) as Artifical Intelligence Engineer.
+Looking ahead, I'm actively seeking internship opportunities for the 2025 summer, with a primary focus on audio and speech AI technology. Reach out to me via the email provided on the left :)
 
-
-<font size="5"><strong>I'm actively seeking intership opportunities for 2025 summer, with a primary focus on audio and speech AI technology. Contact me via email at the left side bar is appreciated.</strong></font>
-
------
-My research interests are broad, including AI generative models, speech signal processing and parallel computing. There are a lot of areas that I have only stepped a little but wishing to dive further like system, program analysis and machine learning theory.
-
-I'm also involved in a [game development studio](https://github.com/Rice-Time-Studio) that my friends and I launched. We create our own games in our free time.
+I am also actively engaged in a [game development studio](https://github.com/Rice-Time-Studio) that I co-founded with friends. Together, we channel our creativity and passion into crafting unique gaming experiences during our spare time.

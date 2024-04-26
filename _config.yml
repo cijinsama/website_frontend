@@ -28,6 +28,7 @@ author:
   location         : "Shanghai, China"
   employer         : "Nanjing University"
   uri              : # URL
+  resume           : "assets/resume.pdf"
   email            : "yil349@ucsd.edu" 
 
   # Academic websites

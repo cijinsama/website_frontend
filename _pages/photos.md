@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Photos"
 permalink: /photos/
-author_profile: true
+author_profile: false
 ---
 ### Shot during my undergraduate years at Nanjing University
 ![image](/images/photos/IMG_20220513_143402.jpg){:width="400px"}

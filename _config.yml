@@ -24,7 +24,7 @@ author:
   avatar           : "photos/IMG_20220513_144017.jpg"
   name             : "Yi Liu"
   pronouns         : "he/his"  
-  bio              : "UCSD incoming MS student in ECE department"
+  bio              : "incoming UCSD MS in ECE student"
   location         : "Shanghai, China"
   employer         : "Nanjing University"
   uri              : # URL
@@ -211,6 +211,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  demos:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,15 +254,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

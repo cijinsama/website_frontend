@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "\"Bio\""
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently an undergraduate student in Acoustics at Nanjing University. I am fortunate to be advised by Prof. Lu at Nanjing University for my undergraduate degree paper about audio packet loss concealment. (demo will be released soon.)
+I am currently an undergraduate student in Acoustics at Nanjing University. I am fortunate to be advised by Prof. Lu at Nanjing University for my [undergraduate degree paper]({{ site.baseurl }}{% link _demos/speech-enhancement.md %}) about audio packet loss concealment. 
 
 
 Currently I'm doing an intership at [Papergames](https://www.papegames.com/en) as Artifical Intelligence Engineer.

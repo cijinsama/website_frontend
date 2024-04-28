@@ -12,6 +12,6 @@ I have broad research interests within <strong>AI generative models, speech sign
 
 Currently, I am leveraging my skills as an AI Engineer through an enriching internship at [Papergames](https://www.papegames.com/en).
 
-Looking ahead, I'm actively seeking internship opportunities for the 2025 summer, with a focus on audio and speech AI technology. Reach out to me via the email provided on the left :)
+Looking ahead, <strong>I'm actively seeking internship opportunities for the 2025 summer</strong>, with a focus on audio and speech AI technology. Reach out to me via the email provided on the left :)
 
 In addition to my academic pursuits, I am also actively engaged in a [game development studio](https://github.com/Rice-Time-Studio) that I co-founded with friends. Together, we channel our creativity and passion into crafting unique gaming experiences during our spare time.

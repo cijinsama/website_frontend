@@ -17,3 +17,6 @@ main:
 
   - title: "Project Demo"
     url: /demos/
+
+  - title: "My Online Tools"
+    url: /tools/

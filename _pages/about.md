@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an incoming MS student at UC San Diego. I obtained my B.S. from Nanjing University, advised by Professor Lu. Stay tuned as I prepare to unveil our [demo]({{ site.baseurl }}{% link _demos/speech-enhancement.md %}).
+I'm a MS student at UC San Diego. I obtained my B.S. from Nanjing University, advised by Professor Lu. Stay tuned as I prepare to unveil our [demo]({{ site.baseurl }}{% link _demos/speech-enhancement.md %}).
 
 I have broad research interests within <strong>AI generative models, speech signal processing and parallel computing</strong>, as well as deep learning system, program analysis, and machine learning theory.
 

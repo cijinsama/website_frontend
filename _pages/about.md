@@ -10,7 +10,6 @@ I'm a MS student at UC San Diego. I obtained my B.S. from Nanjing University, ad
 
 I have broad research interests within <strong>AI generative models, Audio/Speech/Language and parallel computing</strong>, as well as deep learning system, program analysis, and machine learning theory.
 
-I will join [Bose](https://www.bose.com) as Audio Machine Learning Engineer for summer internship in 2025.
 Currently, I’m conducting research in several areas:
 - I'm working on parallel optimization methods under the guidance of [Professor Wang](https://jimwang123.github.io/)
 - I'm working on music generation with the help from [Jingyue](https://yuer867.github.io/).

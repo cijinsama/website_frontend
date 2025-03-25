@@ -13,7 +13,6 @@ I have broad research interests within <strong>AI generative models, Audio/Speec
 Currently, I’m conducting research in several areas:
 - I'm working on parallel optimization methods under the guidance of [Professor Wang](https://jimwang123.github.io/)
 - I'm working on music generation with the help from [Jingyue](https://yuer867.github.io/).
-- At the [La Jolla Institute for Immunology](https://www.lji.org/), I'm working on interpretable machine learning algorithms for personal antibody response prediction with [Professor Tal Einav](https://www.lji.org/labs/einav-lab/).
 
 Prior to this, I completed an internship as an AI Engineer at [Papergames/Infold Games](https://www.papegames.com/en).
 
